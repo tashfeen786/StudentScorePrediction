@@ -1,4 +1,4 @@
-Student Exam Score Prediction
+##Student Exam Score Prediction
 📌 Project Overview
 
 This project focuses on predicting students' exam scores using different machine learning techniques. The goal is to identify the key factors (like study hours, attendance, sleep, motivation, etc.) that influence academic performance.
